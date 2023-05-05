@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "headerImage": "https://addiezone.github.io/assets/banner.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Color picker support library for tweaks (Frcoal still doesn't have a working Alderis but keycap is banned so I just ripped it) ",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free Package",
+                    "title": "License"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "238",
+                    "title": "Downloads"
+                }
+            ]
+        }
+    ]
+}
