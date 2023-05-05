@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "headerImage": "https://addiezone.github.io/assets/banner.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "The preferences are broken, so I have changed a number of settings in Mitsuha Forever and saved the .plist preferences file. Please install the package of the settings you want. Enables LS Background, Homescreen, Spotify, and Control Center. All others are disabled. No FFT and color is dynamic.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free Package",
+                    "title": "License"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "238",
+                    "title": "Downloads"
+                }
+            ]
+        }
+    ]
+}

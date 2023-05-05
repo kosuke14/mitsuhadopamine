@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "headerImage": "https://addiezone.github.io/assets/banner.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "A modified iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP. Converted to rootless May 5, 2023. Hosted for your convience. Will remove when Mitsuha is updated for rootless.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free Package",
+                    "title": "License"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "238",
+                    "title": "Downloads"
+                }
+            ]
+        }
+    ]
+}

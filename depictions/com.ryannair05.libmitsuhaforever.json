@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "headerImage": "https://addiezone.github.io/assets/banner.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "An advanced audio visualizer library for Mitsuha Forever. POSTINIT PATCHED FOR /var/jb/ on May 4 2023.",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free Package",
+                    "title": "License"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "238",
+                    "title": "Downloads"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "minVersion": "0.3",
+    "headerImage": "https://addiezone.github.io/assets/banner.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Universal audio visualizer for iOS. Rootless patched May 4, 2023. Currently, preferences are broken. Please install mitsuhadopaminesettings to temporarly fix this as we await a developer fix. APPLE MUSIC IS BROKEN!",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free Package",
+                    "title": "License"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "238",
+                    "title": "Downloads"
+                }
+            ]
+        }
+    ]
+}
