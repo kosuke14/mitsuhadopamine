@@ -1,8 +1,8 @@
-Origin: The Addie Zone
-Label: The Addie zone
+Origin: Mitsuha for Xinamine
+Label: Mitsuha for Xinamine
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: The Addie Zone - this is where I just upload packages I recompile for my own testing and for tutorials I publish.
+Description: FORK OF The Addie Zone - this is where I just upload packages I recompile for my own testing and for tutorials I publish.
