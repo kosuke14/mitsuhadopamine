@@ -46,12 +46,12 @@ Installed-Size: 879
 Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2), emt.paisseon.xinamine (>= 0.0.5)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
-Size: 82944
-MD5sum: 1f9db20781f0c3060e6416af1f2a1ff9
-SHA1: 8dd3fa39b2b7fed1fb86eff86355bc35cb1fc89c
-SHA256: 8753a204b65f6683c2c6783a4c430dfc4d6f9cc2e89f040365f03fb1ceb9ebe4
+Size: 80528
+MD5sum: dd858ceb48ec9155389805b6f0fc34b1
+SHA1: fe6ae0129e76f8605629ed1963ca9fe73850c534
+SHA256: c64c343de3c686dc7fdc739496e6d1cae836855f06d229ec1e251c78f3eedd2c
 Section: Tweaks
-Description: Universal audio visualizer for iOS. IMPORTANT: This tweak crashes userspace when restarting userspace, to prevent this, toggle tweak injection and uninstall mitsuha then rejailbreak. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Apple Music Crash Prevents (but still not working)
+Description: Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Userspace timeout fixes and Apple Music Crash Prevents (but still not working)
 Tag: compatible_min::ios15.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://kosuke14.github.io/mitsuhadopamine/depictions/com.ryannair05.mitsuhaforever.json
