@@ -51,7 +51,7 @@ MD5sum: 1f9db20781f0c3060e6416af1f2a1ff9
 SHA1: 8dd3fa39b2b7fed1fb86eff86355bc35cb1fc89c
 SHA256: 8753a204b65f6683c2c6783a4c430dfc4d6f9cc2e89f040365f03fb1ceb9ebe4
 Section: Tweaks
-Description: Universal audio visualizer for iOS. Rootless patched May 4, 2023. Currently, preferences are broken. Please install mitsuhadopaminesettings to temporarly fix this as we await a developer fix. APPLE MUSIC IS BROKEN!
+Description: Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Apple Music Crash Prevents (but still not working)
 Tag: compatible_min::ios15.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://kosuke14.github.io/mitsuhadopamine/depictions/com.ryannair05.mitsuhaforever.json
