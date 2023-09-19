@@ -9,7 +9,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Universal audio visualizer for iOS. Rootless patched May 4, 2023. Currently, preferences are broken. Please install mitsuhadopaminesettings to temporarly fix this as we await a developer fix. APPLE MUSIC IS BROKEN!",
+                    "markdown": "Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Apple Music Crash Prevents (but still not working)",
                     "useSpacing": true
                 },
                 {
