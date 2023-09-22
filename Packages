@@ -55,8 +55,8 @@ Description: Universal audio visualizer for iOS. Rootless patched May 4, 2023 by
 Tag: compatible_min::ios15.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://kosuke14.github.io/mitsuhadopamine/depictions/com.ryannair05.mitsuhaforever.json
-Icon: https://addiezone.github.io/Icons/Mitsuha.png
-Name: Mitsuha Forever (Dopamine)
+Icon: https://kosuke14.github.io/mitsuhadopamine/Icons/Mitsuha.png
+Name: Mitsuha Forever for Dopamine
 
 Package: ws.hbang.alderis
 Version: 1.2-2
