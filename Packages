@@ -46,17 +46,17 @@ Installed-Size: 879
 Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2), emt.paisseon.xinamine (>= 0.0.5)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
-Size: 80528
-MD5sum: dd858ceb48ec9155389805b6f0fc34b1
-SHA1: fe6ae0129e76f8605629ed1963ca9fe73850c534
-SHA256: c64c343de3c686dc7fdc739496e6d1cae836855f06d229ec1e251c78f3eedd2c
+Size: 81252
+MD5sum: 1ccc4cb8a1a9feeb657e7dac8c49a766
+SHA1: 20b9ced2466a7f26d9bf624ee6a73f71e26fba10
+SHA256: b7dd1edcbd6543b7c134e135efe61a5a5cc6f9abc9593eca7c6eb6b796abed2c
 Section: Tweaks
 Description: Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Userspace timeout fixes and Apple Music Crash Prevents (but still not working)
 Tag: compatible_min::ios15.0
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Depiction: https://kosuke14.github.io/mitsuhadopamine/depictions/com.ryannair05.mitsuhaforever.json
 Icon: https://addiezone.github.io/Icons/Mitsuha.png
-Name: Mitsuha Forever
+Name: Mitsuha Forever (NO MUSIC / Dopamine)
 
 Package: ws.hbang.alderis
 Version: 1.2-2
