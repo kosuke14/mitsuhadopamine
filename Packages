@@ -43,7 +43,7 @@ Version: 1.4.3
 Architecture: iphoneos-arm64
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Installed-Size: 879
-Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2)
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
 Size: 80220
