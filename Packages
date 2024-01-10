@@ -26,10 +26,10 @@ Installed-Size: 920
 Depends: mobilesubstrate, com.ryannair05.audiosnapshotserver
 Replaces: me.nepeta.libmitsuha, me.conorthedev.libmitsuhaforever
 Filename: ./debs/com.ryannair05.libmitsuhaforever_1.4.2_iphoneos-arm64.deb
-Size: 147152
-MD5sum: 8c70c0a19c1b22dbe57d016dc15aa867
-SHA1: 35ce35f89c72835befe16a61d488be84a1aa4709
-SHA256: ad43dc7b9adec3b545df6ae2112ed8dbfe5e44c99f17dbaffac184b90bb95c3d
+Size: 125876
+MD5sum: 80aee1d89f984891efdbd2f4c47fb7fa
+SHA1: b02fc9a6e7847b19b149f4aded5ddcd709662c6a
+SHA256: 1afcfe1282679c2850b97b601efacac7a139a4d8628d2a93eabcc92d349c410a
 Section: Development
 Description: An advanced audio visualizer library for Mitsuha Forever. POSTINIT PATCHED FOR /var/jb/ on May 4 2023.
 Tag: role::developer, compatible_min::ios15.0
@@ -43,7 +43,7 @@ Version: 1.4.3
 Architecture: iphoneos-arm64
 Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
 Installed-Size: 879
-Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2), emt.paisseon.xinamine (>= 0.0.5)
+Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
 Size: 81252
