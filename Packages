@@ -46,10 +46,10 @@ Installed-Size: 879
 Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
-Size: 80220
-MD5sum: 62e32bf35fe864958c5285a837335026
-SHA1: 189fa9efb261ac0435686724ad4cbf893d278902
-SHA256: 4bddba64aa9fd8c44dff27e2fbdc4e63e34332dc49bbf90808d5c7e5940bfe74
+Size: 81076
+MD5sum: 7eaa25de72062d2fa3974eb0259fad23
+SHA1: 1335cc4c67d02e2be5c74890173f77d74cbf9ab4
+SHA256: 23b0061941110a1cd724144501152166f55dad054e319ea046946cb60bd53b35
 Section: Tweaks
 Description: Reinstalling or upgrading this tweak will reset the mitsuha preferences. Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Userspace timeout fixes and Apple Music Crash Prevents (but still not working)
 Tag: compatible_min::ios15.0
@@ -59,18 +59,18 @@ Icon: https://kosuke14.github.io/mitsuhadopamine/Icons/Mitsuha.png
 Name: Mitsuha Forever
 
 Package: ws.hbang.alderis
-Version: 1.2-2
+Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: still keycap but addie is hosting it because pircay
 Installed-Size: 1328
 Depends: firmware (>= 15.0), uikittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
-Filename: ./debs/ws.hbang.alderis-1.2-2-iphoneos-arm64.deb
-Size: 147600
-MD5sum: 369e173422ac14df60691a9a6f9713b2
-SHA1: e666390706453932c64c6664d572fe3a58866654
-SHA256: b8b62a8bcee71606198c6ef86db9cc4d4d8d400719649b1fc2bed91839b3c7b8
+Filename: ./debs/ws.hbang.alderis_1.2.3_iphoneos-arm64.deb
+Size: 290546
+MD5sum: 3f9e6b11866f656255a80d57ddb7f258
+SHA1: 9f3243b042f64f1a36509be4c198148547148336
+SHA256: cdd1f47c08843bde9b0e34ec07697a29dcdd56f8493fe5503f8085e7c1d5fb76
 Section: Development
 Description: Color picker support library for tweaks (Fuck whoever runs frcoal, messing with version numbers is a no-no >:c)
 Tag: role::developer, compatible_min::ios15.0
