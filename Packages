@@ -46,10 +46,10 @@ Installed-Size: 879
 Depends: mobilesubstrate, preferenceloader, com.ryannair05.libmitsuhaforever (>=1.4.0), ws.hbang.alderis, firmware (>=11.0), oldabi (>= 0.3.2)
 Replaces: io.c0ldra1n.mitsuha, io.ominousness.mitsuhaxi, me.nepeta.mitsuhainfinity, me.nepeta.mitsuhainfinity-lockscreen
 Filename: ./debs/com.ryannair05.mitsuhaforever_1.4.3_iphoneos-arm64.deb
-Size: 81252
-MD5sum: 1ccc4cb8a1a9feeb657e7dac8c49a766
-SHA1: 20b9ced2466a7f26d9bf624ee6a73f71e26fba10
-SHA256: b7dd1edcbd6543b7c134e135efe61a5a5cc6f9abc9593eca7c6eb6b796abed2c
+Size: 80220
+MD5sum: 62e32bf35fe864958c5285a837335026
+SHA1: 189fa9efb261ac0435686724ad4cbf893d278902
+SHA256: 4bddba64aa9fd8c44dff27e2fbdc4e63e34332dc49bbf90808d5c7e5940bfe74
 Section: Tweaks
 Description: Reinstalling or upgrading this tweak will reset the mitsuha preferences. Universal audio visualizer for iOS. Rootless patched May 4, 2023 by Addie. This fork (Sep 19, 2023 by sukru) includes fixes to preferences, Userspace timeout fixes and Apple Music Crash Prevents (but still not working)
 Tag: compatible_min::ios15.0
@@ -67,10 +67,10 @@ Depends: firmware (>= 15.0), uikittools
 Replaces: org.thebigboss.libcolorpicker, me.nepeta.libcolorpicker
 Provides: org.thebigboss.libcolorpicker (= 99.0), me.nepeta.libcolorpicker (= 99.0)
 Filename: ./debs/ws.hbang.alderis-1.2-2-iphoneos-arm64.deb
-Size: 166442
-MD5sum: c94570d75622ed4a67838a193f1fbdf4
-SHA1: 3ceb3e28c8b88b766d8358207fcd3bc4d25d689f
-SHA256: 148940e0eb741c9a4f77e1aa66d3fb3957cfad317a0c2053dc3cdfa460c56714
+Size: 147600
+MD5sum: 369e173422ac14df60691a9a6f9713b2
+SHA1: e666390706453932c64c6664d572fe3a58866654
+SHA256: b8b62a8bcee71606198c6ef86db9cc4d4d8d400719649b1fc2bed91839b3c7b8
 Section: Development
 Description: Color picker support library for tweaks (Fuck whoever runs frcoal, messing with version numbers is a no-no >:c)
 Tag: role::developer, compatible_min::ios15.0
